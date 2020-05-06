@@ -1,0 +1,14 @@
+
+		// function panggilJavascript(){
+		// 	console.log("Menuliskan Code Javascript di Browser Secara Eksternal");	
+		// }
+
+		// panggilJavascript();
+
+
+
+		function panggilJS(){
+			console.log("Tugas Berhasil!");
+		}
+
+		panggilJS()
